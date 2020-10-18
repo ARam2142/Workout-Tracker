@@ -1,72 +1,70 @@
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 # Workout-Tracker
 
-Unit 17 Nosql Homework: Workout Tracker
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the Develop folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+# Table of Contents
+* [About the Project](#about-the-project)
+* [Background](#background)
+* [User Story](#User-Story)
+* [Technologies](#Technologies)
+* [Usage](#Usage)
+* [Test](#Test)
+* [License](#license)
+* [Contact](#contatct)
 
-User Story
+# Background
+
+Welcome to my workout tracker. This applicatin will track your fitness progress. You can use this to show how many miles you've run or the weight that you have lifted. When you try opening the app again it will take you to your last workout.
+
+# User Story
 
 As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
+# Technologies
 
-Business Context
-A consumer will reach their fitness goals more quickly when they track their workout progress.
+Javascript
 
-Acceptance Criteria
-When the user loads the page, they should be given the option to create a new workout or continue with their last workout.
-The user should be able to:
+HTML
 
+CSS
 
-Add exercises to a previous workout plan.
+Node Express
 
+Mongoose
 
-Add new exercises to a new workout plan.
+MongoDB Compass
 
-
-View the combined weight of multiple exercises on the stats page.
-
-
-To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas account and connect a database from there to your application. Be sure to use the following guides for support:
-
-
-Set Up MongoDB Atlas
-
-
-Deploy with Heroku and MongoDB Atlas
+Robo 3T
 
 
 
-Commit Early and Often
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for the following two reasons:
+# Screenshots
+![Screen Shot 2020-10-18 at 12 52 51 PM](https://user-images.githubusercontent.com/65634748/96374452-f58a6900-1140-11eb-9e4e-726761436995.png)
+
+![Screen Shot 2020-10-18 at 12 46 02 PM](https://user-images.githubusercontent.com/65634748/96374316-025a8d00-1140-11eb-9e00-a15ceb6ad5a4.png)
 
 
-Your commit history is a signal to employers that you are actively working on projects and learning new skills.
+# Usage
+feel free to fork from my file and download. Use at your own risk. For all ages.
 
+# Test
+This application was done without any testing. Dont ruin it.
 
-Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
+# License
+This repository is licensed under the MIT license
 
+# Credits
+The folowing resources were used to build this app:
 
-Follow these guidelines for committing:
+David Hammond(tutor)
 
+class activities
 
-Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
+# Contact
+If there are any questions abou this application you can reach me at
 
+Email: andresaaramirez@aol.com
 
-Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
+LinkedIn: https://www.linkedin.com/in/andres-ramirez-8b07487b/
 
-
-Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-
-Test your application before you commit to ensure functionality at every step in the development process.
-
-
-We want you to have well over 200 commits by graduation, so commit early and often!
-
-Submission on BCS
-You are required to submit the following:
-
-
-The URL to the deployed application
-
-
-The URL to the GitHub repository
+Take a look at my other apps at https://github.com/ARam2142
